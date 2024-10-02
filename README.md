@@ -13,7 +13,7 @@ I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with 
 - **MySQL**: Integrated MySQL database with various projects such as [facial authentication using Inception Resnet V1](https://github.com/pmwatt/comsec_faceauth).
 - **Firebase**: Integrated NoSQL database and authentication system for [pet adoption](https://github.com/pmwatt/muict-uwu-pet-adoption) mobile app project.
 
-### 🤖 ML
+### 🤖 AI
 - Built and deployed machine learning model for MUICT 3rd year track prediction using Random Forest algorithm (see [track prediction project](https://github.com/pmwatt/muict_trackpred)).
 - Implemented RAG using [langchain for prompt engineering](https://www.langchain.com/) alongside [FAISS as vector store and similarity search](https://github.com/facebookresearch/faiss) into LLM from Google Vertex AI (GCP), obtained 2nd place in [MUICT AI Hackathon](https://www.ict.mahidol.ac.th/muaihackathon2024/).
 
