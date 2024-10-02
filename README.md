@@ -10,9 +10,10 @@ I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with 
 - **Flutter**: Mobile application development with a focus on cross-platform compatibility.
 - **Figma**: UI/UX prototyping and design collaboration.
 
-### ⚙️ Backend Development & Cloud (Ongoing Study)
+### ⚙️ Backend Development, Database, Cloud (Ongoing Study)
 - **Node.js**, **Express**: Developing RESTful APIs, handling server-side logic.
 - **MySQL**: Relational database management and SQL queries.
+- **Firebase**: NoSQL database management and authentication (used Firebase in [UWU Pet adoption mobile app](https://github.com/pmwatt/muict-uwu-pet-adoption) project).
 - **Docker and Kubernetes**: Containerization for local development and deployment.
 - **AWS**, **Azure**: Cloud service management, currently exploring scalable infrastructure and services.
 
@@ -20,8 +21,8 @@ I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with 
 - **Python** (NumPy, Pandas, Scikit-learn): Built and deployed machine learning model (see [track prediction project](https://github.com/pmwatt/muict_trackpred)).
 
 ### 🎨 Tools & Hobbies
-- **Blender**, **Krita**: 3D modeling and digital art as a creative outlet.
-- **Godot**: Experimenting with game development and real-time rendering.
+- **Blender**, **Krita**: FOSS tools for 3D modeling and digital art as a creative outlet.
+- **Godot**: Made top-down RPG as well as 2D platformer.
 - **Davinci Resolve**: Video-editing tool, alternative to Adobe Premiere Pro.
 
 ## 📊 Fun Statistics
