@@ -1,35 +1,31 @@
 # Hi, I'm Prachnachai Meakpaiboonwattana (Pao) from Thailand 👋
 
-I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with a strong focus on **frontend web development**. I have experience building web applications using modern technologies and frameworks, and I'm currently expanding my skillset into **backend development** and **cloud infrastructure**.
+I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with a strong focus on **frontend web development**. Currently expanding my skillset into **backend development** using ASP.NET core and **cloud infrastructure using AWS/Azure**.
 
 ## 🛠 Technical Skills
 
 ### 🌐 Frontend Development (Primary Focus)
-- **React**: Extensive experience with component-driven architecture, state management, and hooks.
-- **Tailwind CSS**, **Chakra UI**: Efficient UI design and responsive styling.
-- **Flutter**: Mobile application development with a focus on cross-platform compatibility (See [UWU Pet adoption mobile app](https://github.com/pmwatt/muict-uwu-pet-adoption) for more details).
-- **Figma**: UI/UX prototyping and design collaboration.
+- **React**: Extensive experience with component-driven architecture using atomic design principles, state management using Redux, as well as utilizing UI libraries including as tailwindcss and ChakraUI.
+- **Dart/Flutter**: See [UWU Pet adoption mobile app](https://github.com/pmwatt/muict-uwu-pet-adoption) for more details.
 
-### ⚙️ Backend Development, Database, Cloud (Ongoing Study)
-- **Node.js**, **Express**: Developing RESTful APIs, handling server-side logic.
-- **MySQL**: Relational database management and SQL queries.
-- **Firebase**: NoSQL database management and authentication.
-- **Docker and Kubernetes**: Containerization for local development and deployment.
-- **AWS**, **Azure**: Cloud service management, currently exploring scalable infrastructure and services.
+### ⚙️ Backend Development, Database (Ongoing Study)
+- **Node.js**, **Express**: Developed RESTful APIs, handling server-side logic.
+- **MySQL**: Integrated MySQL database with various projects such as [facial authentication using Inception Resnet V1](https://github.com/pmwatt/comsec_faceauth).
+- **Firebase**: Integrated NoSQL database and authentication system for [pet adoption](https://github.com/pmwatt/muict-uwu-pet-adoption) mobile app project.
 
-### 🤖 Machine Learning
-- **Python** (NumPy, Pandas, Scikit-learn): Built and deployed machine learning model (see [track prediction project](https://github.com/pmwatt/muict_trackpred)).
+### 🤖 ML
+- Built and deployed machine learning model for MUICT 3rd year track prediction using Random Forest algorithm (see [track prediction project](https://github.com/pmwatt/muict_trackpred)).
+- Implemented RAG using [langchain for prompt engineering](https://www.langchain.com/) alongside [FAISS as vector store and similarity search](https://github.com/facebookresearch/faiss) into LLM from Google Vertex AI (GCP), obtained 2nd place in [MUICT AI Hackathon](https://www.ict.mahidol.ac.th/muaihackathon2024/).
 
-### 🎨 Tools & Hobbies
+### 🎨 Hobbies
 - **Blender**, **Krita**: FOSS tools for 3D modeling and digital art as a creative outlet.
-- **Godot**: Made top-down RPG as well as 2D platformer.
-- **Davinci Resolve**: Video-editing tool, alternative to Adobe Premiere Pro.
+- **Godot**, **Aseprite**: Made top-down RPG as well as 2D platformer with pixelart.
+- **Davinci Resolve**, **Kdenlive**: Video-editing tools, alternative to Adobe Premiere Pro. 
 
 ## 📊 Fun Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmwatt&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to explore my repositories or contact me ✉️
-
 
 <!--
 **pmwatt/pmwatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
