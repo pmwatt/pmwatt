@@ -7,13 +7,13 @@ I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with 
 ### 🌐 Frontend Development (Primary Focus)
 - **React**: Extensive experience with component-driven architecture, state management, and hooks.
 - **Tailwind CSS**, **Chakra UI**: Efficient UI design and responsive styling.
-- **Flutter**: Mobile application development with a focus on cross-platform compatibility.
+- **Flutter**: Mobile application development with a focus on cross-platform compatibility (See [UWU Pet adoption mobile app](https://github.com/pmwatt/muict-uwu-pet-adoption) for more details).
 - **Figma**: UI/UX prototyping and design collaboration.
 
 ### ⚙️ Backend Development, Database, Cloud (Ongoing Study)
 - **Node.js**, **Express**: Developing RESTful APIs, handling server-side logic.
 - **MySQL**: Relational database management and SQL queries.
-- **Firebase**: NoSQL database management and authentication (used Firebase in [UWU Pet adoption mobile app](https://github.com/pmwatt/muict-uwu-pet-adoption) project).
+- **Firebase**: NoSQL database management and authentication.
 - **Docker and Kubernetes**: Containerization for local development and deployment.
 - **AWS**, **Azure**: Cloud service management, currently exploring scalable infrastructure and services.
 
