@@ -1,43 +1,30 @@
-# Hi, I'm Prachnachai Meakpaiboonwattana (Pao) from Thailand 👋
+# Hi, I'm Pao 👋
 
-I'm a **Computer Science** student at Mahidol University's Faculty of ICT, with a strong focus on **frontend web development**. Currently expanding my skillset into **backend development** using ASP.NET core and **cloud infrastructure using AWS/Azure**.
+Computer Science student at Mahidol University | Frontend & Backend Developer
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### 🌐 Frontend Development (Primary Focus)
-- **React**: Extensive experience with component-driven architecture using atomic design principles, state management using Redux, as well as utilizing UI libraries including as tailwindcss and ChakraUI.
-- **Dart/Flutter**: See [UWU Pet adoption mobile app](https://github.com/pmwatt/muict-uwu-pet-adoption) for more details.
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
-### ⚙️ Backend Development, Database (Ongoing Study)
-- **Node.js**, **Express**: Developed RESTful APIs, handling server-side logic.
-- **MySQL**: Integrated MySQL database with various projects such as [facial authentication using Inception Resnet V1](https://github.com/pmwatt/comsec_faceauth).
-- **Firebase**: Integrated NoSQL database and authentication system for [pet adoption](https://github.com/pmwatt/muict-uwu-pet-adoption) mobile app project.
+### Backend
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### 🤖 AI
-- Built and deployed machine learning model for MUICT 3rd year track prediction using Random Forest algorithm (see [track prediction project](https://github.com/pmwatt/muict_trackpred)).
-- Implemented RAG using [langchain for prompt engineering](https://www.langchain.com/) alongside [FAISS as vector store and similarity search](https://github.com/facebookresearch/faiss) into LLM from Google Vertex AI (GCP), obtained 2nd place in [MUICT AI Hackathon](https://www.ict.mahidol.ac.th/muaihackathon2024/).
+### AI & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-### 🎨 Hobbies
-- **Blender**, **Krita**: FOSS tools for 3D modeling and digital art as a creative outlet.
-- **Godot**, **Aseprite**: Made top-down RPG as well as 2D platformer with pixelart.
-- **Davinci Resolve**, **Kdenlive**: Video-editing tools, alternative to Adobe Premiere Pro. 
+### Creative Tools
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white)
+![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=krita&logoColor=white)
 
-## 📊 Fun Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmwatt&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Feel free to explore my repositories or contact me ✉️
-
-<!--
-**pmwatt/pmwatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmwatt&theme=transparent&layout=compact)
