@@ -13,7 +13,7 @@ Computer Science student at Mahidol University | Frontend & Backend Developer
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
